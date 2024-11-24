@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @b3n3d3tt4
-- 👀 I’m interested in particle physics, fundamental interaction physics, electronics and computational physics
+- 👀 I’m interested in particle physics, fundamental interactions physics, electronics and computational physics
 - 🎓 I have a Bachelor's Degree in Physics
-- 📚 I'm attending a Master's Degree in fundamental interaction physics
+- 📚 I'm attending a Master's Degree in fundamental interactions physics
 - 🌱 I’m currently programming in python
 - ⚡ Fun fact: The first time I attended a programming course I hated it
 
