@@ -4,6 +4,7 @@
 - 📚 I'm attending a Master's Degree in fundamental interactions physics
 - 🌱 I’m currently programming in python
 - ⚡ Fun fact: The first time I attended a programming course I hated it
+
 OPEN SOURCE IS LOVE
 <!---
 b3n3d3tt4/b3n3d3tt4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
